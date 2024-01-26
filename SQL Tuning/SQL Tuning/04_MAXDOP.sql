@@ -46,6 +46,9 @@ group by country, city  option (maxdop 8)
 -- Server(4)-->DB(6)--Abfrage(8)-- es zählt 8
 
 
+--OLAP: 25 
+--OLTP: 50
+
 --Was sollte man einstellen: 
 -- der Kostenschwellwert sollte bei 25 sein.. und dann experimentieren
 --bei Datawarehouse kann die Zahl abweichen
