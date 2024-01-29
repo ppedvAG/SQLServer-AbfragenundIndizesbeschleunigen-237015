@@ -61,6 +61,18 @@
           <AssociatedConnUserName />
           <FullPath>06__Indizes.sql</FullPath>
         </FileNode>
+        <FileNode Name="10_Probleme der Prozeduren und Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>10_Probleme der Prozeduren und Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="11_JOIN Arten.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>11_JOIN Arten.sql</FullPath>
+        </FileNode>
         <FileNode Name="Z_ Auffinden geeignter Indizes.sql">
           <AssociatedConnectionMoniker />
           <AssociatedConnSrvName />
@@ -68,8 +80,8 @@
           <FullPath>Z_ Auffinden geeignter Indizes.sql</FullPath>
         </FileNode>
         <FileNode Name="Z_Fehlende Indizes.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Z_Fehlende Indizes.sql</FullPath>
         </FileNode>
@@ -92,8 +104,8 @@
           <FullPath>Z_SQL Server 2022 Diagnostic Information Queries.sql</FullPath>
         </FileNode>
         <FileNode Name="Z_Überflüssige Indizes.sql">
-          <AssociatedConnectionMoniker />
-          <AssociatedConnSrvName />
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:BIGBEN:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>BIGBEN</AssociatedConnSrvName>
           <AssociatedConnUserName />
           <FullPath>Z_Überflüssige Indizes.sql</FullPath>
         </FileNode>
